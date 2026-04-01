@@ -11,4 +11,4 @@ class FirstAndLastIndex  {
      }    
      return new int[]{first,last};
     }
-}
+} 
